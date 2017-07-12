@@ -1,0 +1,25 @@
+Guide utilisatiion
+
+1-Ajouter
+	a)Commande 
+	Client
+	Article
+	Utilisateur
+	
+	
+2- Visualiser
+	commande 
+	Client -> voir ses commande
+	Article -> Modifier en cliquant dessus
+	Utilisateur -> supprimer utilisateur sauf admin
+
+
+3-Setting (Pour modifier votre compte)
+	photo , password etc..
+	
+4- rapport (a venir)
+
+	journalier
+	semaine
+	menseul
+	annuel
