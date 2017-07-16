@@ -23,7 +23,7 @@
 		}
 		else
 		{
-			echo'error requette';
+			echo'no requette';
 		}	
 		
 		echo'
